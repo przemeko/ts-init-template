@@ -11,7 +11,8 @@ npm install
 ### Step 2: Install plugins:
 
 Install tslint plugin: `ms-vscode.vscode-typescript-tslint-plugin`
-Install prettier plugin: `esbenp.prettier-vscode` .
+Install prettier plugin: `esbenp.prettier-vscode`
+(optional) Install Jest plugin: `orta.vscode-jest`
 
 ## Rules
 
